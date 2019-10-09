@@ -1,0 +1,2 @@
+# git-dersleri
+git dersleriiiiiiiiiiii
